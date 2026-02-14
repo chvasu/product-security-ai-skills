@@ -43,8 +43,8 @@ These two skills require a local `rules/` folder from the companion repo: [owasp
 
 ```bash
 # All skills
-npx skills add vchirrav/owasp-security-skills
+npx skills add chvasu/product-security-ai-skills
 
 # Specific skill
-npx skills add vchirrav/owasp-security-skills@sast-bandit
+npx skills add chvasu/product-security-ai-skills@sast-bandit
 ```
